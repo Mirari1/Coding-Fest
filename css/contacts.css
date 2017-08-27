@@ -1,0 +1,68 @@
+.contentCont {  
+	font-family: Raleway;
+	text-align: center;
+	height: 100%; 
+	margin: 103px 0 0 0;
+	text-align: center;  
+}
+
+.contentCont .row > div {
+	display: inline-block;
+	margin: 3em 3em ;
+
+}
+.contentCont svg {
+	max-width: 70px;
+	height: 70px; 
+}
+
+svg path, .icon p {
+	transition:  0.35s linear;
+}
+
+.icon:hover svg path {
+	fill: #f65676;
+}
+
+.icon a {
+	color: #333;
+}
+
+.icon p {
+	padding-top: 10px;
+}
+
+.icon:hover p {
+	color: #f65676;
+}
+
+.contentCont input { 
+  	font-family: Raleway;
+  	font-size: 30px;
+  	letter-spacing: -0.3px;
+  	text-align: center;
+  	color: #333333;
+	display: block;
+	margin: 0 auto;
+	margin-top: 45px;
+	width: 381px;
+	height: 67px;
+	background-color: transparent;
+	border: solid 1px #333333;
+	cursor: pointer;
+
+	transition:  0.35s linear;
+}
+
+.contentCont input:hover {
+	background-color: #333;
+	color: #fafafa;
+}
+
+ 
+
+
+ 
+
+
+
